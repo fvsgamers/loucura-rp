@@ -1,4 +1,4 @@
-# 💀 GTA V: Modo Purga Ativado
+# 💀 GTA V: Modo Loucura Ativado
 
 Este script transforma o trânsito e os pedestres pacíficos de Los Santos em um pandemônio absoluto. 
 
